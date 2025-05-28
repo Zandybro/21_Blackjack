@@ -7,9 +7,9 @@ blackjack game in java
 - [Alexander Chantre Vernaza](https://github.com/AlexanderChantre)
 
 # Descripción del Proyecto
-Desarrollo del juego Black Jack en el que el jugador se enfrenta al sistema (crupier).
+Desarrollo del juego "Black Jack" en el que el jugador se enfrenta al sistema (crupier).
 Ambos reciben cartas con el objetivo de acercarse lo más posible a 21 puntos sin superarlo.
-El jugador puede elegir entre pedir una carta o quedarse con su mano actual, 
+El jugador puede elegir entre pedir una carta para acercarse al objetivo o quedarse con su puntaje actual, 
 mientras que el crupier actúa siguiendo un árbol de decisión automatizado.
 
 # Características Técnicas
