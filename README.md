@@ -2,10 +2,9 @@
 blackjack game in java
 # Autores
 - [Ronaldo Basto Pillimur](https://github.com/)
-- [Juan Stevan Ordoñez Galindez](https://github.com/stevanordoñez)
-- [Julián Andrés torres Vásquez](https://github.com/Zandybro)
-- [Alix Eliana Perafan Tombe](https://github.com/Elian)
-- [Jhoan Sebastian fuertes pabon](https://github.com/sebastianfp99)
+- [Juan Stevan Ordoñez Galindez](https://github.com/juanostevan)
+- [Eider David Sanchez Ceron](https://github.com/Zandybro)
+- [Alexander Chantre Vernaza](https://github.com/AlexanderChantre)
 
 # Descripción del Proyecto
 Desarrollo del juego Black Jack en el que el jugador se enfrenta al sistema (crupier).
