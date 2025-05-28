@@ -21,8 +21,8 @@ mientras que el crupier actúa siguiendo un árbol de decisión automatizado.
 
 # Reglas del Blackjack
 - Una baraja inglesa estandar de 52 cartas.
-- Clasificacion de cartas:
-   Cartas numéricas (2–10): su valor nominal.
+_ Clasificacion de cartas:
+- Cartas numéricas (2–10): su valor nominal.
   Figuras (J, Q, K): valen 10 puntos.
   As (A): puede valer 1 u 11 puntos, según convenga al jugador.
 - Inicio repartir 2 cartas.
