@@ -20,17 +20,17 @@ mientras que el crupier actúa siguiendo un árbol de decisión automatizado.
 - Enfoque: Lógica de programación, estructuras de datos propias, programacion orienta a objetos, recursividad, codigo limpio y despliegue colaborativo en GitHub.
 
 # Reglas del Blackjack
-- Una baraja inglesa estandar de 52 cartas.
+- Una baraja inglesa estandar de 52 cartas.- 
 Clasificacion de cartas:
 - Cartas numéricas (2–10): su valor nominal.
 - Figuras (J, Q, K): valen 10 puntos.
 - As (A): puede valer 1 u 11 puntos, según convenga al jugador.
 - Inicio repartir 2 cartas.
-- Suma ganadora es la que se acerca o igual a vigésimo primero(21).
+- Suma ganadora es la que se acerca o igual a vigésimo primero(21).- 
 Cada jugador decide cómo proceder con su mano:
 - Pedir carta (Hit): solicitar una carta adicional.
 - Plantarse (Stand): mantener la mano actual sin pedir más cartas.
-Se comparan las manos del jugador y del dealer:
+Se comparan las manos del jugador y del dealer:- 
 - Victoria del jugador: si su mano es más cercana a 21 sin pasarse.
 - Victoria del crupier: si su mano es más cercana a 21 sin pasarse.
 - Empate (Push): si ambas manos tienen el mismo valor.
