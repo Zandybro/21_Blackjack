@@ -15,8 +15,8 @@ mientras que el crupier actúa siguiendo un árbol de decisión automatizado.
 # Características Técnicas
 - Modalidad: Jugador vs Máquina.
 - Lenguaje: Java.
-- Interfaz: Solo consola (sin interfaz).
-- Nivel: 4to Semestre Ingeniería Informática.
-- Enfoque: Lógica de programación, estructuras de datos propias, POO, recursividad, clean code y despliegue colaborativo en GitHub.
+- Interfaz: Solo consola.
+- Semestre: 4to de Ingeniería Informática.
+- Enfoque:Lógica de programación, estructuras de datos propias, POO, recursividad, clean code y despliegue colaborativo en GitHub.
 
 
