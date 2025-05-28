@@ -20,7 +20,3 @@ mientras que el crupier actúa siguiendo un árbol de decisión automatizado.
 - Enfoque: Lógica de programación, estructuras de datos propias, POO, recursividad, clean code y despliegue colaborativo en GitHub
 
 
-
-juan triple malparido
-
-
