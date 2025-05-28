@@ -1,6 +1,7 @@
 # 21_Blackjack
 blackjack game in java
 # Autores
+@stevanordoñez
 - Ronaldo Basto Pillimur
 - Juan Stevan Ordoñez Galindez
 - Eider David Ceron Sanchez
