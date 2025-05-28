@@ -1,5 +1,5 @@
 # 21_Blackjack
-Juego De "BLACK JACK" En Java
+Juego De "BLACKJACK" En Java
 # Autores
 - [Ronaldo Basto Pillimur](https://github.com/)
 - [Juan Stevan Ordoñez Galindez](https://github.com/juanostevan)
